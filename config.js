@@ -1,173 +1,197 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win $450 Parents Spa Escape at Strøm Spa",
+    "navBrandLogoText": "Lisa Hall",
+    "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2026-12-31T23:59:00.000Z",
+    "heroHeadline": "Win <span class='highlight'>A Spa Escape for Two</span> at Strøm Spa Nordique!",
+    "heroSubheadline": "Busy parents, this is for you. Unplug. Relax. Enjoy thermal baths, dinner for two, wine, robes, and a gift. $450 value. Entry ends Nov 10. Winner picked Nov 11, 2025.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/b25ejydej1rmc0ct2svsy0vbtr.jpg",
+    "promotionDates": "Enter Oct 24 to Nov 10, 2025 — winner announced Nov 11, 2025.",
+    "endDate": "2025-11-11T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
+    "entryFormCtaText": "Enter to Win Now!",
+    "name": "Parent Escape Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "successModalMainMessage": "Your entry for the <strong>Parent Escape Giveaway</strong> is in! Winner will be announced Nov 11, 2025 and notified by email. Good luck!",
+    "successModalEmailPrompt": "Watch your email on Nov 11 — you could be on your way to a peaceful spa escape!"
   },
   "settings": {
     "confettiColors": [
-      "#0055A4",
-      "#003366",
+      "#7FB3A6",
+      "#B2DFDB",
       "#FFFFFF"
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
+    "ghlWebhookUrl": "",
+    "webhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": "",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
-    "turnstileSiteKey": "0x4AAAAAAB5SpbWeBo7JnEIs"
-    "turnstileReplitSiteId": "0c27b526-888c-489b-8f11-66d1fcba1bfa"
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the <strong>Parent Escape Giveaway</strong> has been received. We will draw the winner on Nov 11, 2025 and contact them by email. Good luck!",
+    "socialPromptText": "Watch your inbox on Nov 11 and follow our social pages for the winner post."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/aa444t0ds1rme0ct2swbwcnpjc.jpg",
+        "alt": "Couple relaxing in outdoor thermal baths at a Nordic spa"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hjqbb6vb6drm80ct2sw9yvg82w.jpg",
+        "alt": "Warm steam rising from spa pools at sunset"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/61swnyeb8nrm80ct2sw8p3nbzc.jpg",
+        "alt": "Boreal-inspired dishes served at a spa restaurant"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/k5yv919bs5rme0ct2swssmj4qr.jpg",
+        "alt": "Cozy robes and calm lounge area at Strøm Spa"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-spa",
+        "text": "Two entries to the thermal experience"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-utensils",
+        "text": "Two appetizers or desserts + two boreal-inspired dishes at Nord restaurant"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-wine-glass-alt",
+        "text": "Two glasses of wine"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-bath",
+        "text": "Bathrobes for the day + a special Strøm gift"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Choose the Strøm Spa location that works for you"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
-    "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "name": "Parent Escape Giveaway — Strøm Spa Nordique Culinary Discovery Package",
+    "value": "$450 Value",
+    "description": "Picture this: no rush, no phones, no kids for a few hours. Just warm pools, cold plunge, and calm. Then a tasty meal for two. A glass of wine each. Soft robes. A special gift to take home. You pick the Strøm Spa location you love. You leave rested, happy, and close again.",
+    "limitedTimeOfferText": "Limited Fall Giveaway — Ends Nov 10!",
+    "ctaButtonText": "I Want This Spa Day!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "title": "Fill the Quick Form",
+        "description": "Enter your name and email. It takes 30 seconds."
       },
       {
         "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "title": "Answer 4 Short Questions",
+        "description": "Tell us about your home needs. Simple and fast."
+      },
+      {
+        "icon": "fas fa-paper-plane",
+        "title": "Submit Your Entry",
+        "description": "Hit the button to enter. No purchase needed."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "Watch Your Inbox",
+        "description": "We draw on Nov 11, 2025 and email the winner."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "100% free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-child",
+        "text": "Made for busy parents"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-balance-scale",
+        "text": "Fair random draw"
+      },
+      {
+        "icon": "fas fa-map",
+        "text": "Pick your spa location"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "We respect your privacy"
       }
     ]
   },
   "rules": {
+    "finePrintText": "Please read the fine print before entering. Adults 18+, one entry per person, open where legal.",
+    "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Adults 18+ can enter. One entry per person. Void where not allowed."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "Is this linked to Strøm Spa?",
+        "a": "No. This giveaway is not sponsored by or affiliated with Strøm Spa Nordique."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "What is included?",
+        "a": "Thermal experience for two, two apps or desserts, two boreal mains, two glasses of wine, robes, and a Strøm gift. You choose the location."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "Any extra costs?",
+        "a": "Add-ons like tips, extra drinks, or upgrades are not included."
+      },
+      {
+        "q": "When does it end?",
+        "a": "Entries close Nov 10, 2025 at 11:59 PM. We draw on Nov 11, 2025."
+      },
+      {
+        "q": "How do I get the prize?",
+        "a": "We will send the winner simple instructions or a voucher. Spa booking depends on Strøm Spa availability and rules."
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
-      "Think of who you'd take for this special night",
-      "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Double-check your email before you submit",
+      "Follow @lisahallmontreal on Instagram and Facebook for winner news",
+      "Answer the bonus questions honestly so we can serve you better",
+      "Share with parent friends after you enter"
     ],
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
-    "showTipsSection": true,
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We use a random number tool to pick the winner. Every valid entry has the same chance. No tricks. No favorites."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notification",
+      "text": "We will email the winner on Nov 11, 2025. Check your inbox and spam. We will also post on social media for transparency."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-759.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-759.netlify.app&text=Win%20a%20%24450%20Parents%20Spa%20Escape%20at%20Str%C3%B8m%20Spa%20Nordique!"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don't miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!",
-    "consentLabel": ""
+    "subtitle": "Enter your details below for your chance to win this relaxing $450 spa escape for two!",
+    "entryCountText": "Entries are coming in fast — don’t miss your chance!",
+    "socialSharePrompt": "Know busy parents who need a break? Share this giveaway:"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760120269880_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -189,7 +213,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -197,8 +221,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -211,7 +235,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760120269880_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -233,45 +257,33 @@ const config = {
       ]
     }
   ],
-  "thankYouPage": {
-    "socialLinks": {
-      "facebook": "",
-      "instagram": "",
-      "twitter": "",
-      "tiktok": ""
-    },
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
-  },
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/lisahallcourtier/",
+      "instagram": "https://instagram.com/lisahallmontreal"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Lisa Hall",
+      "title": "Agent",
+      "phone": "514-996-6605",
+      "email": "lisahallmontreal@gmail.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is sponsored by Lisa Hall and is not sponsored by or affiliated with Strøm Spa Nordique. No purchase needed. One entry per person. Entries close Nov 10, 2025. Winner chosen at random from valid entries on Nov 11, 2025. Must be 18+. Open where legal. Any spa rules, blackout dates, or terms apply. By entering, you agree to get updates by email or text from Lisa Hall. You can opt out anytime. We do not sell your data.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "secondaryLogoAlt": "",
+    "organizerName": "Lisa Hall",
+    "brokerageName": "",
+    "address": "",
+    "email": "lisahallmontreal@gmail.com",
+    "phone": "514-996-6605",
+    "copyrightOwner": "Lisa Hall"
   },
   "deploymentInfo": {
-    "repoName": "giveaway",
-    "repoUrl": "https://github.com/arslvn93/giveaway",
-    "netlifyUrl": "http://giveawaymain.netlify.app",
+    "repoName": "Giveaway-759",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-759",
+    "netlifyUrl": "http://Giveaway-759.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Parent Escape Giveaway"
   }
 };
